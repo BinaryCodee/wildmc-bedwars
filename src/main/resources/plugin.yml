@@ -1,0 +1,12 @@
+name: WildMC-Bedwars
+version: '${project.version}'
+main: it.stortoh.bedwars.Bedwars
+api-version: '1.13'
+commands:
+  wildbw:
+    aliases:
+      - wildbedwars
+      - wildmcbedwars
+      - wildmcbw
+      - bw
+      - bedwars
